@@ -1,0 +1,30 @@
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 60 60">
+    <g mask="url(#fbdd15a8-ca46-4f3e-b870-96760dfbdd3a)">
+        <svg xmlns="http://www.w3.org/2000/svg" filter="url(#pftEHVp_5aGnkesTNh1Nk)">
+            <g>
+                <rect width="60" height="60" rx="10"></rect>
+            </g>
+            <defs>
+                <filter id="pftEHVp_5aGnkesTNh1Nk">
+                    <feColorMatrix type="matrix"
+                        values="0 0 0 0 0.27734375  0 0 0 0 0.45703125  0 0 0 0 0.58984375  0 0 0 1 0">
+                    </feColorMatrix>
+                </filter>
+            </defs>
+        </svg>
+    </g>
+    <mask id="fbdd15a8-ca46-4f3e-b870-96760dfbdd3a">
+        <g fill="white">
+            <rect width="60" height="60" rx="10"></rect>
+        </g>
+        <g fill="black">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 138 66"
+                width="45" height="45" x="7.5" y="7.5">
+                <path transform="translate(0 54)"
+                    d="M48.00-36L54.00-36L54.00-30.00L48.00-30.00ZM12.00-36L18-36L18-24.00L12.00-24.00ZM54.00-30.00L60.00-30.00L60.00-18L54.00-18ZM6.00-24.00L12.00-24.00L12.00-12.00L6.00-12.00ZM0-12.00L6.00-12.00L6.00-6.00L0-6.00ZM60.00-18L66-18L66-6.00L60.00-6.00ZM30.00-54.00L36-54.00L36 12.00L18 12.00L18 6.00L30.00 6.00ZM72-54.00L78-54.00L78-48.00L72-48.00ZM90-54.00L96-54.00L96-48.00L90-48.00ZM78-48.00L84-48.00L84-42L78-42ZM138-42L138-36L114-36L114-54.00L120-54.00L120-42ZM72-36L78-36L78-30.00L72-30.00ZM108-36L114-36L114-30.00L108-30.00ZM78-30.00L84-30.00L84-24.00L78-24.00ZM132-18L126-18L126-24.00L114-24.00L114-30.00L132-30.00ZM78-12.00L84-12.00L84 0L78 0ZM72 0L78 0L78 12.00L72 12.00ZM84 6.00L90 6.00L90 12.00L84 12.00ZM90-36L84-36L84-42L96-42L96-48.00L102-48.00L102-42L108-42L108-36L96-36L96-24.00L108-24.00L108-12.00L120-12.00L120-18L126-18L126-12.00L138-12.00L138-6.00L126-6.00L126 12.00L114 12.00L114 6.00L120 6.00L120-6.00L108-6.00L108 12.00L96 12.00L96 6.00L102 6.00L102-18L96-18L96 6.00L90 6.00Z">
+                </path>
+            </svg>
+        </g>
+    </mask>
+</svg>
